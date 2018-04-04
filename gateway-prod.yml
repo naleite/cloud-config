@@ -1,0 +1,5 @@
+jhipster:
+    security:
+        authentication:
+            jwt:
+                secret: naleite-is-super-man
